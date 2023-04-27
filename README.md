@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 - i like chocolate
-- im a bear
 
 <!---
 Belinarth/Belinarth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
